@@ -1,0 +1,42 @@
+# Documents / spreadsheets
+*.pdf
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Binaries / Java build artifacts
+*.jar
+*.class
+*.dll
+*.so
+*.jnilib
+*.exe
+
+# Databases and logs
+*.db
+*.sqlite
+*.log
+Thumbs.db
+
+# Temp / backup
+*.tmp
+*.bak
+~$*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
